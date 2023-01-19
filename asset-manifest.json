@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nenflix/static/css/main.b3037b70.css",
+    "main.js": "/Nenflix/static/js/main.97f0d340.js",
+    "index.html": "/Nenflix/index.html",
+    "main.b3037b70.css.map": "/Nenflix/static/css/main.b3037b70.css.map",
+    "main.97f0d340.js.map": "/Nenflix/static/js/main.97f0d340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3037b70.css",
+    "static/js/main.97f0d340.js"
+  ]
+}
